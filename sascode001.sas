@@ -1,4 +1,4 @@
-proc options option=work; run;
+
 proc javainfo; run;
 proc gtestit; run;
 
